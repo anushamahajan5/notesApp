@@ -52,3 +52,4 @@ The main branch contains the MVP.
 The feat branch contains a experimental code: getting access to the user's media device, making a live video of it; getting the user's audio device details.
 
 The develop branch contains the latest app features - might seem counter-intuitive a bit, haha.
+"# notesApp" 
