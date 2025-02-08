@@ -19,20 +19,6 @@ This project was bootstrapped with [Vite](https://vitejs.dev).
 
 https://github.com/user-attachments/assets/69f92096-76b3-4e78-9eeb-fcdb3865ad2e
 
-
-## Usage
-
-Give credits if you'll be using.
-
-## Contribution
-
-It's a very interesting API, I would love to see any feature requests.
-
-Feature you could contribute:
-
-1. let's users choose the language they want to record in.
-2. Anything that's interesting enough.
-
 ## Start the App
 
 In the project directory, you can run:
